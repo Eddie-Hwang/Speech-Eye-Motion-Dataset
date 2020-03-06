@@ -1,0 +1,11 @@
+*.ipynb
+*.txt
+__pycache__
+
+# folders
+model/
+videos/
+facial_keypoints/
+clips/
+dataset/
+filtered_clips/
